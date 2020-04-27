@@ -7,14 +7,14 @@ Firstly you need to create an account on [Dialogflow](https://dialogflow.com "Di
 ### Installation
 Download or Clone the repo, Navigate to the directory containing the files and run
 
-''' python setup.py install '''
+``` python setup.py install```
 
-'''python setup.py install'''
+```python setup.py install```
 
 to install the dependencies.
 
 ### Use
-Copy your client access token and insert in 'bot.py' where specified. Enter your email/ phone number and password for your facebook account and access the chatbot.
+Copy your client access token and insert in `bot.py` where specified. Enter your email/ phone number and password for your facebook account and access the chatbot.
 
 ### Built with
 1. fbchat
